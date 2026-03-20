@@ -5,7 +5,7 @@ cask "font-sovana" do
     url "https://github.com/cyanghxst/homebrew-cyanghxst/releases/download/font-sovana-#{version}/Sovana.zip"
     name "Sovana"
     desc "Sovana regular font"
-    homepage "https://example.com"
+    homepage "https://www.behance.net/gallery/147291051/Sovana-Typeface"
 
     font "Sovana-Regular.ttf"
 end
