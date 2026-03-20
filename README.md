@@ -21,3 +21,7 @@ brew tap cyanghxst/homebrew-cyanghxst
 | Cask          | Description             | Version |
 | ------------- | ----------------------- | ------- |
 | `font-sovana` | Sovana Regular typeface | 1.0.0   |
+
+## License
+
+MIT
