@@ -18,9 +18,10 @@ brew tap cyanghxst/homebrew-cyanghxst
 
 ### Casks
 
-| Cask          | Description             | Version |
-| ------------- | ----------------------- | ------- |
-| `font-sovana` | Sovana Regular typeface | 1.0.0   |
+| Cask          | Description                     | Version |
+| ------------- | ------------------------------- | ------- |
+| `font-sovana` | Sovana Regular typeface         | 1.0.0   |
+| `sideloadly`  | Sideload tool for Apple devices | 0.60.0  |
 
 ## License
 
