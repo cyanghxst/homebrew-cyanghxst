@@ -14,6 +14,7 @@ brew tap cyanghxst/homebrew-cyanghxst
 
 | Formula        | Description                                  | Version |
 | -------------- | -------------------------------------------- | ------- |
+| `spank`        | Slap your MacBook, it yells back             | v1.2.4  |
 | `tmc-cli-rust` | Command line client for TMC, written in Rust | v1.1.2  |
 
 ### Casks
