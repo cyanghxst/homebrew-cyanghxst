@@ -1,6 +1,6 @@
 cask "sideloadly" do
   version "0.60.0"
-  sha256 "428d062af1ca819712fb12cb0ace25fa49c80d9735c73cda3cbaf09ffcd63212"
+  sha256 :no_check
 
   url "https://sideloadly.io/SideloadlySetup.dmg"
   name "Sideloadly"
@@ -14,4 +14,6 @@ cask "sideloadly" do
     "~/Library/Preferences/io.sideloadly.daemon.plist",
     "~/Library/Preferences/io.sideloadly.sideloadly.plist",
   ]
+
+  caveats "Sideloadly requires Rosetta 2 to be installed."
 end
