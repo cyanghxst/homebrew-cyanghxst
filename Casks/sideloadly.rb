@@ -8,4 +8,10 @@ cask "sideloadly" do
   homepage "https://sideloadly.io/"
 
   app "Sideloadly.app"
+
+  zap trash: [
+    "~/Library/Application Support/Sideloadly",
+    "~/Library/Preferences/io.sideloadly.daemon.plist",
+    "~/Library/Preferences/io.sideloadly.sideloadly.plist",
+  ]
 end
