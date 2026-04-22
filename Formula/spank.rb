@@ -1,6 +1,6 @@
 class Spank < Formula
   desc "Slap your MacBook. Uses Apple Silicon accelerometer via IOKit HID"
-  homepage "https://github.com/taigrr/spank"
+  homepage "https://github.com/taigrr/spank/"
   url "https://github.com/taigrr/spank/releases/download/v1.2.4/spank_1.2.4_darwin_arm64.tar.gz"
   sha256 "da4de2e5b494eca3181b9557aa0d731a4f5eb63d23599e0363e038c157c8b2be"
   license "MIT"
