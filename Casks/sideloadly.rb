@@ -4,7 +4,7 @@ cask "sideloadly" do
 
   url "https://sideloadly.io/SideloadlySetup.dmg"
   name "Sideloadly"
-  desc "Sideload your favorite games and apps on iOS, Apple Silicon Macs, and Apple TV without jailbreak"
+  desc "Sideload apps on iOS, Apple Silicon Macs, and Apple TV without jailbreak"
   homepage "https://sideloadly.io"
 
   app "Sideloadly.app"
